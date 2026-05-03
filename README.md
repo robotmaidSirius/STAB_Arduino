@@ -10,7 +10,7 @@ PlatformIOでユニットテストするときにPC上でテストしたい。
 
 ## インストール
 
-(gcc コンパイラ)[https://osdn.net/projects/mingw/releases/]をインストールしてください。
+[gcc コンパイラ](https://osdn.net/projects/mingw/releases/)をインストールしてください。
 
 
 ## 使い方
